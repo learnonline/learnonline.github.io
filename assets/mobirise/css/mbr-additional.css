@@ -620,16 +620,12 @@ h6,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1b .mbr-section-title,
-#header3-1b .mbr-section-subtitle {
-  text-align: center;
+#testimonials4-2o .mbr-section-title {
+  font-size: 46px;
 }
-#msg-box8-1y .mbr-section-title,
-#msg-box8-1y p {
+#msg-box6-2s .mbr-section-title,
+#msg-box6-2s .lead p {
   color: #fff;
-}
-#msg-box8-1y .mbr-section-title {
-  font-size: 36px;
 }
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
@@ -692,26 +688,26 @@ h6,
 #menu-i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-1x .mbr-section-title,
-#header3-1x .mbr-section-subtitle {
+#header3-2w .mbr-section-title,
+#header3-2w .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1x .mbr-section-title {
-  font-size: 36px;
+#header3-2w .mbr-section-title {
+  font-size: 32px;
 }
-#header3-20 .mbr-section-title,
-#header3-20 .mbr-section-subtitle {
+#header3-2y .mbr-section-title,
+#header3-2y .mbr-section-subtitle {
   text-align: center;
 }
-#header3-20 .mbr-section-title {
-  font-size: 36px;
+#header3-2y .mbr-section-title {
+  font-size: 32px;
 }
-#header3-22 .mbr-section-title,
-#header3-22 .mbr-section-subtitle {
+#header3-30 .mbr-section-title,
+#header3-30 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-22 .mbr-section-title {
-  font-size: 36px;
+#header3-30 .mbr-section-title {
+  font-size: 32px;
 }
 #header3-2a .mbr-section-title,
 #header3-2a .mbr-section-subtitle {
@@ -723,11 +719,26 @@ h6,
 #msg-box5-2c P {
   text-align: right;
 }
+#msg-box5-2c B {
+  font-size: 30px;
+}
+#content1-3e P {
+  text-align: right;
+  font-size: 12px;
+}
 #msg-box4-2f H3 {
-  font-size: 36px;
+  font-size: 30px;
 }
 #msg-box5-2g H3 {
-  font-size: 36px;
+  font-size: 30px;
+}
+#content1-3d P {
+  text-align: right;
+  font-size: 12px;
+}
+#msg-box6-2q .mbr-section-title,
+#msg-box6-2q .lead p {
+  color: #fff;
 }
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -789,23 +800,6 @@ h6,
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#msg-box8-l .mbr-section-title,
-#msg-box8-l p {
-  color: #fff;
-}
-#msg-box8-l .lead P {
-  font-size: 14px;
-}
-#msg-box8-l .mbr-section-title {
-  font-size: 36px;
-}
-#header3-s .mbr-section-title,
-#header3-s .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-s .mbr-section-title {
-  font-size: 24px;
 }
 #msg-box5-n P {
   text-align: left;
@@ -893,6 +887,13 @@ h6,
 #menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-32 .mbr-section-title,
+#msg-box8-32 p {
+  color: #fff;
+}
+#msg-box8-32 .mbr-section-title {
+  font-size: 36px;
+}
 #menu-2h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -952,5 +953,73 @@ h6,
 }
 #menu-2h .link[aria-expanded="true"],
 #menu-2h .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#content5-3b .mbr-section-title,
+#content5-3b p {
+  color: #fff;
+}
+#content5-3b .mbr-section-title {
+  text-align: center;
+}
+#menu-39 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-39 .navbar-caption {
+  color: #ffffff;
+}
+#menu-39 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-39 .close-icon::before,
+#menu-39 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-39 .link,
+#menu-39 .dropdown-item {
+  color: #ffffff;
+}
+#menu-39 .link {
+  font-size: 0.75rem;
+}
+#menu-39 .dropdown-item,
+#menu-39 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-39 .link:hover,
+#menu-39 .dropdown-item:hover,
+#menu-39 .link:focus,
+#menu-39 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-39 .link[aria-expanded="true"],
+#menu-39 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-39 .nav-dropdown-sm .link:focus,
+#menu-39 .nav-dropdown-sm .link:hover,
+#menu-39 .nav-dropdown-sm .dropdown-item:focus,
+#menu-39 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-39 .navbar,
+#menu-39 .nav-dropdown-sm,
+#menu-39 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-39 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-39 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-39 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-39 .bg-color.transparent.opened .link:hover,
+#menu-39 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-39 .link[aria-expanded="true"],
+#menu-39 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
