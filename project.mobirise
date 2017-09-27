@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-18_0805",
-    "currentPage": "page3.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -788,7 +788,7 @@
               "src": "@THEME_PATH@/components/_images/desert.jpg"
             },
             "video": {
-              "src": "<script src=\"https://infograph.venngage.com/js/embed/v1/embed.js\" data-vg-id=\"311020\" data-title=\"Learning Analytics\" data-w=\"1056\" data-h=\"1632\"></script>",
+              "src": "https://infograph.venngage.com/js/embed/v1/embed.js",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -1342,7 +1342,7 @@
               "src": "@THEME_PATH@/components/_images/desert.jpg"
             },
             "video": {
-              "src": "<iframe width=\"480\" height=\"270\" src=\"https://www.powtoon.com/embed/dEQtHKivowd/\" frameborder=\"0\"></iframe>",
+              "src": "https://www.powtoon.com/online-presentation/dEQtHKivowd/katies-scenario/?mode=movie#/ ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
