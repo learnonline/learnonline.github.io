@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-18_0805",
-    "currentPage": "page1.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 123,
+    "uniqCompNum": 126,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -205,7 +205,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -331,7 +331,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -401,7 +401,7 @@
           },
           "title": "What is Learning Analytics?",
           "text": "Learning Analytics is a sub-branch of big data. There is no universal definition but the LACE define it as \"the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs” (LACE, 2017)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.laceproject.eu/faqs/learning-analytics/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.laceproject.eu/faqs/learning-analytics/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -528,7 +528,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -823,6 +823,19 @@
           "_anchor": "content1-2u"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Download</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3f"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -884,7 +897,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1425,7 +1438,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1953,7 +1966,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2200,7 +2213,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2221,6 +2234,68 @@
           ],
           "_name": "menu",
           "_anchor": "menu-2h"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "References",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "User",
+              "text": "<p><span style=\"font-style: normal;\">Al-Shammari, I. A., Aldhafiri, M. D., &amp; Al-Shammari, Z. (2013). A meta-analysis of educational data mining on improvements in learning outcomes.&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">College Student Journal, 47 (2), 326-33</span></p><p><span style=\"font-style: normal;\">Arnold, K. E., &amp; Pistilli, M. D. (2012). Course signals at Purdue: Using learning analytics to increase student success. In S. Buckingham Shum, D. Gašević, &amp; R. Ferguson (Eds.), Proceedings of the second international conference on learning analytics and knowledge (pp. 267–270). New York, NY: Association for Computing Machinery. doi:10.1145/2330601.2330666</span></p><p><span style=\"font-style: normal;\">Baekdal, T. (2015, April 27). Introduction to the future of learning analytics. Retrieved from https://www.baekdal.com/analysis/introductionnbspto-the-future-ofnbsplearning-analytics/</span></p><p><span style=\"font-style: normal;\">Bennett L., &amp; Folley S. (2017) Students' perspectives on learning analytics dashboards [Slideshare slides]. Retrieved from https://www.slideshare.net/LizBennett/students-perspectives-on-learning-analytics-dashboards.</span></p><p><span style=\"font-style: normal;\">Campbell, P., Deblois, P.B., &amp; Oblinger, D.G. (2007). Academic analytics: A new tool for a new era. EDUCAUSE Review, 42(4). Retrieved from https://er.educause.edu/~/media/files/article-downloads/erm0742.pdf</span></p><p><span style=\"font-style: normal;\">Daneshmand, M. (n.d.). Big data, future outlook. IEE Big Data Podcasts. Podcast retrieved from https://bigdata.ieee.org/images/files/mp3/Mahmoud_Daneshmand.mp3</span></p><p><span style=\"font-style: normal;\">David, L,. (2015, June 19). Cognitivism. Retrieved from https://www.learning-theories.com/cognitivism.html.</span></p><p><span style=\"font-style: normal;\">De Leeuwe, M. (n.d.) History of e-learning. Retrieved from http://www.leerbeleving.nl/wbts/1/history_of_elearning.html</span></p><p><span style=\"font-style: normal;\">Edwards, S ( 2013, March 29). 10 common LMS questions you can answer with Google Analytics [Blog post]. Retrieved from https://www.opensesame.com/blog/10-common-lms-questions-you-can-answer-google-analytics</span></p><p><span style=\"font-style: normal;\">Feldstein, M. (2015, August 21): 68 percent of statistics are meaningless, Purdue University edition. Retrieved from</span></p><p><span style=\"font-style: normal;\">http://mfeldstein.com/68-percent-of-statistics-are-meaningless-purdue-university-edition/</span></p><p><span style=\"font-style: normal;\">Ferguson, R., &amp; Clow, D. (2017, July 31). Learning analytics: Avoiding failure. Retrieved from http://er.educause.edu/articles/2017/7/learning-analytics-avoiding-failure</span></p><p><span style=\"font-style: normal;\">Ferguson, R., Cooper, A., Drachsler, H., Kismihók, G., Boyer, A., Tammets, K,, &amp; Martínez Monés, A. (2015)  Learning analytics: European perspectives. In: 5th International Learning Analytics &amp; Knowledge Conference (LAK15), 16-20 March 2015, Poughkeepsie, NY, USA. Available from http://oro.open.ac.uk/42346/</span></p><p><span style=\"font-style: normal;\">Funk-e Studios. (2013, November 12). What is big data and how does it work?  Retrieved from https://youtu.be/TzxmjbL-i4Y</span></p><p><span style=\"font-style: normal;\">Garn, K. (2017, March 7). Learning analytics: Why it's important to measure training. Retrieved from https://elearningindustry.com/learning-analytics-why-important-measure-training</span></p><p><span style=\"font-style: normal;\">Griffiths, D., Brasher, A., Clow, D., Ferguson, R., &amp; Yuan, L. (2016). Visions of the future horizon report. Retrieved from http://www.laceproject.eu/wp-content/uploads/2016/02/LACE_D3_2.pdf</span></p><p><span style=\"font-style: normal;\">Hamilton, H. (2012, June 8). Overview of the KDD process. Retrieved from http://www2.cs.uregina.ca/~dbd/cs831/notes/kdd/1_kdd.html</span></p><p><span style=\"font-style: normal;\">Hylén, J. (2015, October 22). Learning analytics can shape the future of adult learning. Electronic Platform for Adult Learning in Europe (EPALE). Retrieved from /epale/en/blog/learning-analytics-can-shape-future-adult-learning</span></p><p><span style=\"font-style: normal;\">LACE (2014, December 15). What are learning analytics? Retrieved from http://www.laceproject.eu/faqs/learning-analytics/</span></p><p><span style=\"font-style: normal;\">LACE. (n.d.). What benefits can learning analytics provide? Retrieved from http://www.laceproject.eu/faqs/what-benefits-can-learning-analytics-provide/#</span></p><p><span style=\"font-style: normal;\">Lin, S. (2014, November 4). Experience API explained: 5 frequently asked questions [Blog post]. Retrieved from https://elearningindustry.com/experience-api-explained-5-frequently-asked-questions&nbsp;</span></p><p><span style=\"font-style: normal;\">Moore, N. (2016, November 10). The University of Gloucestershire implementing learning analytics – where are they now? JISC Podcast. Podcast retrieved from https://goo.gl/bEN7FE</span></p><p><span style=\"font-style: normal;\">Pappas, C. (2014, June 3). 5 reasons why learning analytics are important for elearning. Retrieved from https://elearningindustry.com/5-reasons-why-learning-analytics-are-important-for-elearning</span></p><p><span style=\"font-style: normal;\">Pappas, C. (2016, September 19). 8 types of elearning analytics to obtain from Google and your LMS. Retrieved from https://elearningindustry.com/types-elearning-analytics-obtain-google-lms&nbsp;</span></p><p><span style=\"font-style: normal;\">Piatt, K. (2017, June 20). Learning analytics - Brighton Business School pilot student voice. Retrieved from https://youtu.be/qCVEi9BcSlQ</span></p><p><span style=\"font-style: normal;\">Purdueidc. (2013, November 12). Course signals explanation. Retrieved from https://youtu.be/-BI9E7qP9jA</span></p><p><span style=\"font-style: normal;\">Prinsloo, P. (2017) Learning analytics and big data: A tentative exploration [Slideshare slides]. Retrieved from https://www.slideshare.net/prinsp/learning-analytics-and-big-data-a-tentative- exploration. 2016.</span></p><p><span style=\"font-style: normal;\">Rogers, S. (2017). How learning analytics can improve corporate training.[Slideshare slides]. Retrieved from https://www.slideshare.net/LambdaSolutions/how-learning-analytics-can-improve-corporate-training</span></p><p><span style=\"font-style: normal;\">Roberts L.D., Howell J.A., Seaman K., &amp; Gibson D.C. (2016). Student attitudes toward learning analytics in higher education: \"The Fitbit version of the learning world\". Frontiers In Psychology , 7(2016, December 19), 1-11.https://doi.org/10.3389/fpsyg.2016.01959</span></p><p><span style=\"font-style: normal;\">Scott, J. (2017) Social network analysis (4th ed.). Los Angeles, CA: Sage.</span></p><p><span style=\"font-style: normal;\">Searston, R. &amp; Lodge, J. (Producers). (2017, June 18). Episode 1: The future of learning analytics with Dragan Gašević. Beyond the Lecturn Podcast.&nbsp;</span></p><p><span style=\"font-style: normal;\">Siemens, G. (2013). Learning analytics: The emergence of a discipline. American Behavioral Scientist, 57(10), 1380-1400. doi:10.1177/0002764213498851</span></p><p><span style=\"font-style: normal;\">Wilson, A., Watson, C., Thompson, T.L., Drew, V., &amp; Doyle, S. (2017). Learning analytics: challenges and limitations. Teaching in Higher Education, 22(8), 991-1007. doi:</span></p><p><span style=\"font-style: normal;\">10.1080/13562517.2017.1332026</span></p><p><span style=\"font-style: normal;\">Yupangco, J. (2017, June 26). The importance of learning analytics in instructional design. Retrieved from https://elearningindustry.com/learning-analytics-in-instructional-design-importance</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-3g",
+          "_styles": {
+            ".card-block P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Hompage</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3h"
         }
       ]
     },
@@ -2328,7 +2403,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">TOPICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Technical Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Practical Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Challenges and Limitations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">The Future</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPENDICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,

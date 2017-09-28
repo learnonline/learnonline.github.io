@@ -955,6 +955,9 @@ h6,
 #menu-2h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#testimonials4-3g .card-block P {
+  text-align: left;
+}
 #content5-3b .mbr-section-title,
 #content5-3b p {
   color: #fff;
